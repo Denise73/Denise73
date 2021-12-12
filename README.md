@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Denise73
-- 👀 I’m interested in code and Big Data
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Crypto Currency
+- 👀 I’m interested in WEB DESIGN.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on your projects!
 - 📫 How to reach me: deniseandrade73@gmail.com
 
 <!---
